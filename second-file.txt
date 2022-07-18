@@ -1,2 +1,2 @@
 클론 파일추가_1
-git-test-clond에서 수정
+git-test-clond에서 수정한게 맞습니다!!!(git-test꺼는 틀려)
